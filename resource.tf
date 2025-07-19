@@ -1,7 +1,7 @@
-resource "azurerm_storage_account" "storage3" {
-    resource_group_name     = Assignterra.Assignterra.name
-    location                = Assignterra.Assignterra.location
+resource "azurerm_storage_account" "blob_container" {
+    name                    = "alekcontainer"
+    storage_account_name    =  alek.storage.name
     account_tier            = "Standard"
-    account_replication_type= "LRS"
+    container_access_type   = "public"
     
 }
