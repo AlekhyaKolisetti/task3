@@ -3,7 +3,9 @@ Today I practiced Git commands.
 Git helps us track changes in our files.
 A repository contains our project files and Git history.
 Branches allow us to work on different features.
+<<<<<<< HEAD
 I am learning Git step by step
 
 
-hello from Local.
+hello from Local and Hello from GitHub
+
