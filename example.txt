@@ -1,0 +1,13 @@
+Hello Git!
+
+This is my practice file.
+I am learning Git and GitHub.
+I am practicing add, commit, push and pull commands.
+
+Today I learned:
+1. git add
+2. git commit
+3. git push
+4. git pull
+
+Git is becoming easier!
